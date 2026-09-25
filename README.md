@@ -23,10 +23,11 @@ wa-methodist-website/
 ├── support.html        Support Our School (donation/pledge form)
 ├── contact.html        Contact Us (details + message form)
 ├── 404.html            Not found
-├── css/styles.css      Brand stylesheet
-├── js/main.js          Interactions (nav, reveal, accordion, lightbox, forms)
-├── assets/logo.png     Official logo (from brand board)
-├── assets/images/      Optimised authentic photographs
+├── styles.css          Brand stylesheet (at root, referenced directly)
+├── main.js             Interactions (nav, reveal, accordion, lightbox, forms)
+├── logo.png            Official logo (from brand board)
+├── favicon.png         Site favicon
+├── *.jpg               Optimised authentic photographs (school-gate, founder-statue, …)
 └── robots.txt, sitemap.xml
 ```
 
